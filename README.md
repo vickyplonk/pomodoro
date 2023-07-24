@@ -1,2 +1,2 @@
-# pomodoro
-Cat Pomodoro Timer
+# Pomodoro
+Cat Pomodoro Timer with Tkinter
